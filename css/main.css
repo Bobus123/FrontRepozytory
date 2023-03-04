@@ -12,4 +12,10 @@ body {
   overflow: hidden;
   color: #fff;
   background: linear-gradient(10deg, #2483ff 60%, #2c6afb 60%);
+}
+
+h1 {
+  color: #333;
+  font-weight: bold;
+  text-transform: uppercase;
 }/*# sourceMappingURL=main.css.map */
